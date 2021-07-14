@@ -1,0 +1,28 @@
+body {
+    padding: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+
+.navbar {
+    background-color: white;
+}
+
+
+
+.profile {
+    padding: 5rem;
+}
+
+
+
+.profile img {
+    width: auto;
+    height: 120px;
+}
+
+
+.profile-right {
+    /* background-color: grey; */
+}
